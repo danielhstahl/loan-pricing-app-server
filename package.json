@@ -1,0 +1,11 @@
+{
+  "name": "loan-pricing-server",
+  "version": "1.0.0",
+  "description": "placeholder for complex loan scoring",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Stahl",
+  "license": "ISC"
+}
